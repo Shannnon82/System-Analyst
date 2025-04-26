@@ -1,1 +1,8 @@
 # System-Analyst
+The DriverPass project aimed to provide a modern integrated platform to improve driver education pass rate.  They aimed to provide study materials, one on one driving lesson, and test prepping. 
+My role involved analyzing the provided Interview and translating it into a structural UML class diagram, outlining potential system functionalities and technical requirements. I considered how different user roles would interact with the system based on their respective use cases. 
+If I could revise one part it would be the initial UML class diagram. I'd improve it by adding more specific attributes and methods to each class, clarifying the multiplicity of relationships (e.g. one to one many vs one to one), and proactively considering potential future system extensions to ensure a more robust and adaptable design.
+User needs were interpreted by analyzing the actions and goals outlined in the use case diagram for each actor.  Considering user needs is crucial because it directly impacts system usability, effectiveness, and ultimately the return on investment.  A user-centered design minimizes errors increases productivity, and leads to higher user satisfaction. 
+My approach to software design involves understanding requirements, conceptual and logical design using UML, physical design, implementation, testing, deployment, and ongoing maintenance.  In the future, I would emphasize more user centered design techniques early on, such as user personas and journey mapping, and leverage agile methodologies for iterative development and continuous feedback. Exploring domain-driven design and enhancing the use of prototyping tools would also be key strategies for deeper understanding and more effective system design
+
+
